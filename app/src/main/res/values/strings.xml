@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="integer_array">Integer Array</string>
+    <string name="string_array">String Array</string>
+</resources>
